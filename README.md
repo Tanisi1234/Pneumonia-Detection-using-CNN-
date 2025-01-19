@@ -80,7 +80,7 @@ Below are some sample results showing model predictions on test images:
 ![Pneumonia X-Ray](images/pneumonia_sample.png)
 
 #### Training Accuracy and Loss
-![Training Accuracy and Loss](images/training_metrics.png)
+![Training Accuracy and Loss](Results)
 
 ## Contribution
 Contributions are welcome! Feel free to submit a pull request or open an issue if you find any bugs or want to suggest improvements.
