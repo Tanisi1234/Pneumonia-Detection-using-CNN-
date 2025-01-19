@@ -73,13 +73,12 @@ The architecture has been fine-tuned to achieve the highest possible accuracy.
 ### Sample Results
 Below are some sample results showing model predictions on test images:
 
-#### Normal X-Ray Prediction
-![Normal X-Ray](images/normal_sample.png)
+#### Normal X-Ray Prediction vs Pneumonia X-Ray Prediction
+![Normal X-Ray](Screenshot 2025-01-19 201543.png)
 
-#### Pneumonia X-Ray Prediction
-![Pneumonia X-Ray](images/pneumonia_sample.png)
 
-#### Training Accuracy and Loss
+
+#### Resulta
 ![Training Accuracy and Loss](Results)
 
 ## Contribution
