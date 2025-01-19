@@ -73,25 +73,18 @@ The architecture has been fine-tuned to achieve the highest possible accuracy.
 ### Sample Results
 Below are some sample results showing model predictions on test images:
 
-#### Normal X-Ray Prediction vs Pneumonia X-Ray Prediction
-![Normal X-Ray](Screenshot 2025-01-19 201543.png)
 
 
 
-#### Resulta
+
+#### Results
 ![Training Accuracy and Loss](Results)
 
 ## Contribution
 Contributions are welcome! Feel free to submit a pull request or open an issue if you find any bugs or want to suggest improvements.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any queries, please reach out to:
-- **Name:** Tanisi Jha
-- **Email:** [Your Email Here]
-- **GitHub:** [Tanisi1234](https://github.com/Tanisi1234)
+
 
 ---
 
