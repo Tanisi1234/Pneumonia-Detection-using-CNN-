@@ -1,4 +1,4 @@
-# Pneumonia Detection Using CNN
+# Pneumonia Diagnosis via Audio Signal Processing and CNN
 
 ## Overview
 This repository contains a Convolutional Neural Network (CNN) model for detecting pneumonia from chest X-ray images. The model achieves an accuracy of 92.6%, making it a reliable tool for aiding in pneumonia diagnosis.
